@@ -7,7 +7,7 @@
 <p><font size="3">
   This is a clone of Tesla website built using <strong><em>React.JS</em></strong> as a Front-end. It's not a replica, and it doesn't have all the features of Tesla website. it's a similar version of Tesla with my own design touch, showing my abilities in React.JS to build something advancedlike Tesla.
   <br><br> 
-  <strong><em>Take a look at the live version here:</em></strong> https://netflix-clonee01.netlify.app/ :octocat: :heart_eyes:
+  <strong><em>Take a look at the live version here:</em></strong> https://tesla-clone01.netlify.app/ :octocat: :heart_eyes:
 </p>
 
 
